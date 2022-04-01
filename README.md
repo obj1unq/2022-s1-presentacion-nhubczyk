@@ -17,5 +17,3 @@ Una vez seleccionado el archivo hay que crear el _commit_ para subir los cambios
 
 Soy Nicolas Ivan Hubczyk, tengo 29 años, vivo solo en Quilmes Centro. Trabajo como Implementador SR, con experiencia como Coordinador de equipo, en una consultora para diferentes clientes. Actualmente me encuentro desarrollando un bootcamp para mutar mi perfil a DevOps SRE. 
 
-Saludos.
-
